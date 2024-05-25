@@ -2,6 +2,4 @@
 
 # This is a simple demo
 
-This is a test
-
-change branch
+Test Git
